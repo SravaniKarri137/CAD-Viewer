@@ -46,7 +46,7 @@ Make sure you have installed:
 1. **Clone the repository:**
 
    ```
-   git clone https://github.com/Sumanth-Siddareddy/CAD-Viewer
+   git clone https://github.com/SravaniKarri137/CAD-Viewer.git
    ```
    ```
    cd CAD-Viewer/cad-backend
